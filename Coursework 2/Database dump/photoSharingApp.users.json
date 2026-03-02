@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "674f98ec4ffa473619693ae9"
+  },
+  "username": "Daisy",
+  "password": "$2a$10$JpB8Hr/rpvc5dlc/IYxSNufOIyanmRNxEcw4VmuddOVa9d44Gq4X6",
+  "bio": "Moi",
+  "profilePic": "public\\uploads\\1734106745235.jpg",
+  "followers": [
+    "Daisy",
+    "May",
+    "Pinnah",
+    "gina",
+    "Nyashi",
+    "Kayla",
+    "Kim",
+    "Sass"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6755a610d875258c56807710"
+  },
+  "username": "Joshua",
+  "password": "$2a$10$kjOlI/DB5YCRl5yNVkwh5ODyDZXRlj1XMbnkpmt3A3SxQWCtd7v7.",
+  "bio": "Josh",
+  "profilePic": "public\\uploads\\1734106850934.jpg",
+  "followers": [
+    "Pinnah",
+    "Nyashi",
+    "Joshua",
+    "Kayla"
+  ]
+},
+{
+  "_id": {
+    "$oid": "675c456c2d0ee64c1c1b885a"
+  },
+  "username": "Kayla",
+  "password": "$2a$10$ZDCYR2wd/nd1at48kWc0B.2GVhTi8ZCygVfCIrhYBK3k561hpHzQi",
+  "bio": "ENTJ",
+  "profilePic": "public\\uploads\\1734106676168.jpg"
+}]
